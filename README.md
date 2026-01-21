@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying AI Deep Learning<br>I'm currently studying Ethical Hacking<br>I have a Bachelor's in Cybersecurity<br>Building a custom LLM
+<br>I'm currently studying Ethical Hacking<br>I have a Bachelor's in Cybersecurity<br>Building a custom LLM
 
 
 ## 🌐 Socials:
