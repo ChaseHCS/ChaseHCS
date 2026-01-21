@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I'm currently studying Ethical Hacking<br>I have a Bachelor's in Cybersecurity<br>Building a custom LLM
+I'm currently studying Ethical Hacking<br>I have a Bachelor's in Cybersecurity
 
 
 ## 🌐 Socials:
